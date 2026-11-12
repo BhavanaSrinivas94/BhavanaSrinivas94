@@ -48,11 +48,13 @@ A task management application designed to help students organize their academic 
 - Track task completion.
 - Backend integration using Spring Boot and MySQL.
 
+
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhavanaSrinivas94&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=BhavanaSrinivas94&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavanaSrinivas94&layout=compact&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=BhavanaSrinivas94&layout=compact&theme=tokyonight)
+
 
 ## 🌐 Let's Connect!
 
