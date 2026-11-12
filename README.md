@@ -1,16 +1,62 @@
-## Hi there 👋
 
-<!--
-**BhavanaSrinivas94/BhavanaSrinivas94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Bhavana! 👋
 
-Here are some ideas to get you started:
+### Information Science & Engineering Student | Aspiring Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building, learning, experimenting, and turning ideas into projects.
+
+## 👩‍💻 About Me
+
+- 🎓 Information Science & Engineering student.
+- 💻 Interested in Software Development and Backend Development.
+- 🌱 Currently learning Java, JavaScript, SQL and Data Structures.
+- 🚀 Exploring Full Stack Development.
+- 🛠️ Building practical projects to improve my development skills.
+- 🎯 Working towards becoming a skilled software engineer.
+
+## 🧰 Tech Stack & Tools
+
+**Programming Languages**
+- Java
+- JavaScript
+
+**Frontend Development**
+- HTML
+- CSS
+- Tailwind CSS
+- React
+
+**Database**
+- MySQL
+
+**Tools & Platforms**
+- Git
+- GitHub
+- VS Code
+
+## 🚀 Projects
+
+### Student Task Manager
+
+A task management application designed to help students organize their academic activities and stay productive.
+
+**Features:**
+- Create and manage tasks.
+- Update and delete tasks.
+- Search and filter tasks.
+- Organize tasks using projects.
+- Track task completion.
+- Backend integration using Spring Boot and MySQL.
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BhavanaSrinivas94&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BhavanaSrinivas94&layout=compact&theme=tokyonight)
+
+## 🌐 Let's Connect!
+
+- LinkedIn: https://www.linkedin.com/in/bhavana-s-a88b9b401
+- GitHub: https://github.com/BhavanaSrinivas94
+
+Learning every day. Building with purpose. Improving every day. 🚀
